@@ -89,14 +89,7 @@ body {
   color: var(--grey-900);
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  position: fixed;
-  bottom: 1rem;
-  padding-top: 1rem;
-  color: var(--text-muted);
-}
+
 
 
 /* 📱💻 Responsive Media Query (Desktop & Tablets) */
