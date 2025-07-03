@@ -33,7 +33,7 @@ body {
 }
 
 .card {
-  max-width: 384px;
+  max-width: 30rem;
   width: 100%;
   background: var(--grey-800);
   text-align: center;
