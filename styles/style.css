@@ -38,7 +38,6 @@ body {
   background: var(--grey-800);
   text-align: center;
   border-radius: 0.875rem;
-  margin: auto 0;
   padding: 2rem;
 }
 
@@ -93,7 +92,8 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
-  margin-top: auto;
+  position: fixed;
+  bottom: 1rem;
   padding-top: 1rem;
   color: var(--text-muted);
 }
